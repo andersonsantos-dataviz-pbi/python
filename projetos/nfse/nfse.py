@@ -94,7 +94,7 @@ time.sleep(1) # Aguardando o sistema carregar
 """
 
 
-py.click(x=1727, y=747) # Clicando no botão para avançar para a tela seguinte
+py.click(x=1727, y=747) # Clicando no botão para avançar para a tela seguinte.
 """
 """
 # Navegando para o campo de tipo de tributação
