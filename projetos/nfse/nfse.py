@@ -6,12 +6,12 @@ import time
 # Importando biblioteca para tratar subprocessos
 import subprocess
 # Importanto biblioteca para controlar teclado
-import pyautogui
+import pyautogui as py
 # Importando biblioteca de data
 from datetime import date
 
 # Pausa entre etapas de execução
-pyautogui.PAUSE = 0.5
+py.PAUSE = 0.5
 
 # Variáveis de ambiente
 link = 'https://www.nfse.gov.br/EmissorNacional'
@@ -43,6 +43,7 @@ subprocess.Popen([
 # Aguarda o Chrome criar a janela
 time.sleep(2)
 
+# Abrindo o navegador do Google Chrome Maximizado
 def maximize_chrome_window():
     def enum_handler(hwnd, _):
         if win32gui.IsWindowVisible(hwnd):
@@ -56,60 +57,73 @@ maximize_chrome_window()
 time.sleep(5)
 
 # Fazendo o login no sistema
-pyautogui.click(x=459, y=335) # Clicando no campo do CNPJ
-pyautogui.write(cnpj_empresa) # Digitando o CNPJ no campo
-pyautogui.press('tab') # Navegando para o campo de senha
-pyautogui.write(senha) # Digitando a senha
-pyautogui.press('tab') # Navegando para o botão de entrar
-pyautogui.press('enter') # Pressionando enter para logar no sistema
+py.click(x=459, y=335) # Clicando no campo do CNPJ
+py.write(cnpj_empresa) # Digitando o CNPJ no campo
+py.press('tab') # Navegando para o campo de senha
+py.write(senha) # Digitando a senha
+py.press('tab') # Navegando para o botão de entrar
+py.press('enter') # Pressionando enter para logar no sistema
 
 # Posicionando o cursor do mouse sobre o botão de emissão de NFSe
 time.sleep(5) # Aguardando o sistema carregar
-pyautogui.click(x=1021, y=504) # Clicando no botão de emissão de NFSe
-# Navegando até a data de competência
-for _ in range(21):
-    pyautogui.press('tab')
-    time.sleep(0.1)
-pyautogui.write(hoje) # Digitando a data de hoje no campo de competência
-pyautogui.press('tab') # Validando preenchimento da data de competência
-time.sleep(5) # Aguardando o sistema carregar
+py.click(x=1018, y=559) # Clicando no botão de emissão de NFSe
+time.sleep(1)
+
+# Preenchendo a data de competência
+py.click(x=440, y=402) # Clicando no campo da data de competência
+py.write(hoje) # Digitando a data de hoje no campo de competência
+py.press('tab') # Validando preenchimento da data de competência
+time.sleep(1) # Aguardando o sistema carregar
+py.scroll(-5000) # Rolando a tela para cima
+
+# Selecionando o tipo de tributação
+py.click(x=207, y=164) # Clicando no campo de tipo de tributação
+time.sleep(1) # Aguardando o sistema carregar
+py.click(x=180, y=260) # Selecionando o tipo de tributação "Regime de apuração dos tributos federais e municipal pelo Simples Nacional"
+time.sleep(1) # Aguardando o sistema carregar
+
+# Preenchendo o campo de tomador de serviço
+py.click(x=130, y=429) # Clicando no campo do tomador
+py.scroll(-5000) # Rolando a tela para cima
+py.click(x=138, y=223) # Clicando no campo do CNPJ do tomador
+py.write(tomador) # Digitando o CNPJ do tomador
+py.press('tab')
+time.sleep(1) # Aguardando o sistema carregar
+py.scroll(-5000) # Rolando a tela para cima
+time.sleep(1) # Aguardando o sistema carregar
+"""
+
+
+py.click(x=1727, y=747) # Clicando no botão para avançar para a tela seguinte
+"""
+"""
 # Navegando para o campo de tipo de tributação
 for _ in range(5):
-    pyautogui.press('tab')
+    py.press('tab')
     time.sleep(0.1)
-pyautogui.click(x=158, y=503) # Clicando no campo de tipo de tributação
-time.sleep(5) # Aguardando o sistema carregar
-pyautogui.click(x=183, y=598) # Selecionando o tipo de tributação "Regime de apuração dos tributos federais e municipal pelo Simples Nacional"
-pyautogui.scroll(-5000) # Rolando a tela para cima
-pyautogui.click(x=131, y=424) # Clicando no campo do tomador
-pyautogui.scroll(-5000) # Rolando a tela para cima
-pyautogui.click(x=138, y=223) # Clicando no campo do CNPJ do tomador
-pyautogui.write(tomador) # Digitando o CNPJ do tomador
-pyautogui.press('tab')
-pyautogui.scroll(-5000) # Rolando a tela para cima
-pyautogui.click(x=1727, y=747) # Clicando no botão para avançar para a tela seguinte
+
 
 # Preenchendo as informações da tela de pessoas
 # Posicionando o cursor do mouse no campo de município de ocorrência
 for _ in range(1):
-    pyautogui.press('tab')
+    py.press('tab')
     time.sleep(0.1)
-pyautogui.click(x=836, y=426) # Clicando no listbox de município de ocorrência
-pyautogui.write(municipio_ocorrencia) # Digitando o município de ocorrência
+py.click(x=836, y=426) # Clicando no listbox de município de ocorrência
+py.write(municipio_ocorrencia) # Digitando o município de ocorrência
 time.sleep(1) # Aguardando o sistema carregar as opções
 # Selecionando o município de ocorrência e navegando para o próximo campo
 for _ in range(1):
-    pyautogui.press('tab')
+    py.press('tab')
     time.sleep(0.1)
-pyautogui.click(x=142, y=596) # Clicando no listbox de tributação nacional
-pyautogui.click(x=142, y=644) # Posicionando o cursor do mouse no campo de tributação nacional
-pyautogui.write(tributacao_nacional) # Digitando o código de tributação nacional
+py.click(x=142, y=596) # Clicando no listbox de tributação nacional
+py.click(x=142, y=644) # Posicionando o cursor do mouse no campo de tributação nacional
+py.write(tributacao_nacional) # Digitando o código de tributação nacional
 time.sleep(1) # Aguardando o sistema carregar as opções
 # Selecionando a tributação nacional e navegando para o próximo campo
 for _ in range(1):
-    pyautogui.press('tab')
+    py.press('tab')
     time.sleep(0.1)
-
+"""
 
 
 
