@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Mas permite esses arquivos
+!.gitignore
+!README.md
+!projetos/
+!py_dados/
