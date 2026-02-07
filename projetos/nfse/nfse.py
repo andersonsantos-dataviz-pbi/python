@@ -21,6 +21,9 @@ hoje = date.today().strftime("%d/%m/%Y")
 tomador = '21.269.365/0001-96'
 municipio_ocorrencia = 'Belo Horizonte'
 tributacao_nacional = '010701'
+descricao_servico = "Prestacao de servicos referente a Power BI"
+nbs = "115013000"
+vl_servico = "920000"
 """
 # Acessando o Microsoft Edge em perfil especifico, maximizado utilizando subprocess
 
@@ -91,41 +94,55 @@ py.press('tab')
 time.sleep(1) # Aguardando o sistema carregar
 py.scroll(-5000) # Rolando a tela para cima
 time.sleep(1) # Aguardando o sistema carregar
-"""
-
-
-py.click(x=1727, y=747) # Clicando no botão para avançar para a tela seguinte.
-"""
-"""
-# Navegando para o campo de tipo de tributação
-for _ in range(5):
-    py.press('tab')
-    time.sleep(0.1)
-
+py.click(x=1724, y=751) # Clicando no botão para avançar para a tela seguinte.
+time.sleep(1) # Aguardando o sistema carregar
 
 # Preenchendo as informações da tela de pessoas
 # Posicionando o cursor do mouse no campo de município de ocorrência
-for _ in range(1):
-    py.press('tab')
-    time.sleep(0.1)
-py.click(x=836, y=426) # Clicando no listbox de município de ocorrência
+py.click(x=901, y=437) # Clicando no listbox de município de ocorrência
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=874, y=483) # Posicionando para inserir p município de ocorrência
 py.write(municipio_ocorrencia) # Digitando o município de ocorrência
 time.sleep(1) # Aguardando o sistema carregar as opções
-# Selecionando o município de ocorrência e navegando para o próximo campo
-for _ in range(1):
-    py.press('tab')
-    time.sleep(0.1)
+py.click(x=883, y=525) # Selecionando o município de tributação
+time.sleep(1) # Aguardando o sistema carregar as opções
 py.click(x=142, y=596) # Clicando no listbox de tributação nacional
+time.sleep(1) # Aguardando o sistema carregar as opções
 py.click(x=142, y=644) # Posicionando o cursor do mouse no campo de tributação nacional
 py.write(tributacao_nacional) # Digitando o código de tributação nacional
 time.sleep(1) # Aguardando o sistema carregar as opções
-# Selecionando a tributação nacional e navegando para o próximo campo
-for _ in range(1):
-    py.press('tab')
-    time.sleep(0.1)
-"""
+py.click(x=142, y=700) # Selecionando o código de tributação nacional
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=142, y=705) # Clicando no listbox de tributação municipal
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=142, y=727) # Selecionando o código de tributação nacional
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=130, y=785) # Selecionando "O serviço prestado é um caso de: imunidade, exportação de serviço ou não incidência do ISSQN?"
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=176, y=997) # Posicionando no campo "Descrição do Serviço"
+py.write(descricao_servico) # Digitando a descrição do serviço
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.scroll(-500) # Rolando a tela para cima
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=142, y=855) # Clicando no listbox de "Item da NBS correspondente ao serviço prestado"
+py.click(x=142, y=860) # Posicionando o cursor do mouse no campo de "Item da NBS correspondente ao serviço prestado"
+py.write(nbs) # Digitando NBS
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=142, y=958) # Selecionando o NBS
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.scroll(-5000) # Rolando a tela para cima
+py.click(x=1729, y=751) # Clicando no botão para avançar para a tela seguinte.
+time.sleep(1) # Aguardando o sistema carregar
 
+# Preenchendo valor da NFSe
+py.click(x=173, y=436) # Posicionando o cursor do mouse no campo de valor do serviço prestado
+py.write(vl_servico) # Digitando o valor do serviço
+py.press('tab')
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.click(x=130, y=913) # Selecionando se possui retenção ou não
+time.sleep(1) # Aguardando o sistema carregar as opções
+py.scroll(-5000) # Rolando a tela para cima
+py.click(x=1719, y=985) # Clicando no botão para avançar para a tela seguinte.
 
-
-
-
+# Confirmando/Emitindo a NFSe
+py.click(x=1712, y=751) # Clicando no botão para avançar para a tela seguinte.
