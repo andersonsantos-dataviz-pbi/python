@@ -5,9 +5,9 @@
 import pyfabricops as pf
 
 #Declarando variáveis
-Workspace_Name = 'TESTE_DATASIDE'      #Altere o nome do Workspace
-Dataset_Name = 'ExportsMinerva_teste'  #Altere o nome do Dataset
-Report_Name = 'ExportsMinerva_teste'   #Altere o nome do Relatório
+Workspace_Name = 'BI Store'      #Altere o nome do Workspace
+Dataset_Name = 'FIN02 - Bônus Gerado'  #Altere o nome do Dataset
+Report_Name = 'FIN02 - Bônus Gerado'   #Altere o nome do Relatório
 Salvar_Caminho = 'D:/Export_PowerBI/' + Dataset_Name
 
 #Autenticando através do web browse

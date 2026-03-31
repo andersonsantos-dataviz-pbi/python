@@ -23,14 +23,7 @@ municipio_ocorrencia = 'Belo Horizonte'
 tributacao_nacional = '010701'
 descricao_servico = "Prestacao de servicos referente a Power BI"
 nbs = "115013000"
-vl_servico = "920000"
-"""
-# Acessando o Microsoft Edge em perfil especifico, maximizado utilizando subprocess
-
-subprocess.Popen([r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe','--start-maximized', '--profile-directory=NFSe', 'https://www.nfse.gov.br/EmissorNacional'])
-# Aguardando o navegador abrir
-time.sleep(5)
-"""
+vl_servico = "995000"
 # Acessando o Google Chrome maximizado utilizando subprocess
 chrome_path = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
 
@@ -69,7 +62,7 @@ py.press('enter') # Pressionando enter para logar no sistema
 
 # Posicionando o cursor do mouse sobre o botão de emissão de NFSe
 time.sleep(5) # Aguardando o sistema carregar
-py.click(x=1018, y=559) # Clicando no botão de emissão de NFSe
+py.click(x=1018, y=539) # Clicando no botão de emissão de NFSe
 time.sleep(1)
 
 # Preenchendo a data de competência
