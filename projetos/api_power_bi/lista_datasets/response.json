@@ -1,0 +1,1117 @@
+{
+  "@odata.context":"https://wabi-brazil-south-b-primary-redirect.analysis.windows.net/v1.0/myorg/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/$metadata#datasets","value":[
+    {
+      "id":"f2609bf7-2529-4f83-9ef1-4b25bc3bf06a","name":"Novo VBO01 - Supply_antigo","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f2609bf7-2529-4f83-9ef1-4b25bc3bf06a","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-25T16:03:03.587Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 27/09/2024\nData Quarentena: 02/12/2024\nUltima Atualizacao: 09/02/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"db67191e-15a2-447e-a6f0-21e985fc5eae","name":"ADCOS a\u00e7\u00e3o","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/db67191e-15a2-447e-a6f0-21e985fc5eae","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:45:37.86Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 06/09/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  06/02/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"1bf2535e-7b51-45d3-866b-c6dbea35482c","name":"Dashboard  1\u00ba andar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/1bf2535e-7b51-45d3-866b-c6dbea35482c","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:45:43.527Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 13/12/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  10/01/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"fdcfbec0-d3b4-4d89-8b6f-3e9e9835729d","name":"FIN04 - Acompanhamento KRs","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/fdcfbec0-d3b4-4d89-8b6f-3e9e9835729d","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:45:53.493Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 30/09/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  06/02/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"47b30a6d-3321-4677-883d-13de2eabed46","name":"Funil de Gera\u00e7\u00e3o de B\u00f4nus","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/47b30a6d-3321-4677-883d-13de2eabed46","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:45:57.217Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 03/09/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  04/09/2024\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0cdbae6e-a80a-4bba-9af5-71aa0fe2b985","name":"Integra\u00e7\u00f5es CRMBonus (3)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0cdbae6e-a80a-4bba-9af5-71aa0fe2b985","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:18.013Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 13/12/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  10/01/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"4c1352c4-355d-47a8-b8ed-90b5c7ca4170","name":"Hering_amgm","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/4c1352c4-355d-47a8-b8ed-90b5c7ca4170","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:19.707Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 13/12/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  03/01/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"3f5af635-19ef-4ac6-8acc-682c63cca05a","name":"Opera\u00e7\u00e3o + Tend\u00eancia","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/3f5af635-19ef-4ac6-8acc-682c63cca05a","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:34.17Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 13/08/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  02/12/2024\nUltimo Acesso: 07/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"99c1ddec-dfd6-4cca-b01a-31d5fe9bf06e","name":"Pangeia_Homologacao","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/99c1ddec-dfd6-4cca-b01a-31d5fe9bf06e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:43.97Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 17/09/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao: \nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"4f536a30-eee1-4b4f-86d6-db84f4a29aa3","name":"VTEX","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/4f536a30-eee1-4b4f-86d6-db84f4a29aa3","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:44.583Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 16/10/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  06/02/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b8aaadbf-d50e-48cd-b489-fa3563c438cb","name":"XIOMI","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b8aaadbf-d50e-48cd-b489-fa3563c438cb","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-26T11:46:49.07Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 12/09/2024\nData Quarentena: 26/03/2025\nUltima Atualizacao:  07/02/2025\nUltimo Acesso: 06/02/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"14d5fce8-49c0-40dc-907e-f4732f2af06b","name":"Dashboard Clientes Geral (GiftBack)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/14d5fce8-49c0-40dc-907e-f4732f2af06b","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-31T14:35:23.303Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 14/09/2024\nData Quarentena: 31/03/2025\nUltima Atualizacao:  \nUltimo Acesso:","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"56ef8a92-a7be-4415-90ab-bc1b602092d5","name":"Financeiro","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/56ef8a92-a7be-4415-90ab-bc1b602092d5","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-03-31T14:52:09.107Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/giftback\nData Criacao Dataset: 13/08/2024\nData Quarentena: 31/03/2025\nUltima Atualizacao:  02/12/2024\nUltimo Acesso: ","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"f5d9f3bc-2c9e-457a-82ef-b413ba0e9678","name":"Comiss\u00f5es - A\u00e7\u00f5es","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f5d9f3bc-2c9e-457a-82ef-b413ba0e9678","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T14:27:39.693Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset: 25/07/2023\nData Quarentena:30/05/2025\nUltima Atualizacao:25/09/2023  \nUltimo Acesso:07/11/2023 \nAgendamento: Diariamente as 07:00 AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"30769ef9-f3d3-42ce-814f-157676f63b2b","name":"Comiss\u00f5es - A\u00e7\u00f5es (1)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/30769ef9-f3d3-42ce-814f-157676f63b2b","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T14:40:15.253Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:26/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:25/09/2023  \nUltimo Acesso: 07/12/2024\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"1c5bb6bb-d2fb-4b4f-852a-9aa2d5246763","name":"Comiss\u00f5es - Comercial -10.07","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/1c5bb6bb-d2fb-4b4f-852a-9aa2d5246763","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T14:49:33.333Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:17/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:24/07/2023 \nUltimo Acesso:29/05/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b97d7133-0c93-4a2b-9618-4380642ff2de","name":"Comiss\u00f5es - Comercial CRM360 (2)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b97d7133-0c93-4a2b-9618-4380642ff2de","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T14:54:24.04Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:01/05/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"1fa56282-d67d-4727-8b07-8b9a686dca85","name":"Comiss\u00f5es - Comercial CRM360","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/1fa56282-d67d-4727-8b07-8b9a686dca85","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T14:57:48.357Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:25/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:01/08/2023  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"de5abb9e-9f6b-4934-b168-365c847b22c6","name":"Comiss\u00f5es - Comercial CRMchat","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/de5abb9e-9f6b-4934-b168-365c847b22c6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:01:34.827Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:27/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:27/07/2023  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"d7926b6a-fe23-4129-ab61-c7b76e77a891","name":"Comiss\u00f5es - Comercial CRMchat (1)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/d7926b6a-fe23-4129-ab61-c7b76e77a891","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:04:19.163Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:26/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"905eedbb-f876-4153-bedd-10b80375f8f1","name":"Comiss\u00f5es - Comercial Giftback","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/905eedbb-f876-4153-bedd-10b80375f8f1","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:09:57.87Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:03/08/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"d0c06e77-e753-457a-a496-202d67e589b8","name":"Dataset Zipper APP Oficial (1)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/d0c06e77-e753-457a-a496-202d67e589b8","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:13:53.573Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:13/09/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:  \nUltimo Acesso:11/11/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"aa412fcc-f47c-4af0-99a5-073b6d757785","name":"Dataset Zipper APP RLS 2 (1)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/aa412fcc-f47c-4af0-99a5-073b6d757785","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:17:17.767Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:22/06/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:16/07/2024  \nUltimo Acesso:25/09/2024 \nAgendamento: Diariamente as 07:00 AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"089da91f-cabc-49cf-943e-58fe905aef74","name":"indicadores","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/089da91f-cabc-49cf-943e-58fe905aef74","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:19:51.18Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:11/11/2022 \nData Quarentena:30/05/2025\nUltima Atualizacao:25/05/2023  \nUltimo Acesso:16/09/2024 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"071be398-dae4-4c8b-b6db-79d8a877a96e","name":"Modelo low stores","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/071be398-dae4-4c8b-b6db-79d8a877a96e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:24:33.52Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:25/07/2023 \nData Quarentena:30/05/2025\nUltima Atualizacao:25/07/2023  \nUltimo Acesso:09/08/2023 \nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0700c9c8-0a94-4d86-8483-9fbdeec1f887","name":"Relat\u00f3rio para os consultores","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0700c9c8-0a94-4d86-8483-9fbdeec1f887","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-05-30T15:27:41.283Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta: \nData Criacao Dataset:20/12/2022 \nData Quarentena:30/05/2025\nUltima Atualizacao:02/08/2023  \nUltimo Acesso:16/09/2024 \nAgendamento: Diariamente as 10:00 AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0ddbb7c0-f5cc-43bc-8f29-2150e0f3e853","name":"Acompanhamento Semanal - KPI's","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0ddbb7c0-f5cc-43bc-8f29-2150e0f3e853","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T12:58:02.363Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena\nData Criacao Dataset: \nData Quarentena:16/07/2025\nUltima Atualizacao:  \nUltimo Acesso:\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"70330528-2e78-45ed-bd79-d316926ebc26","name":"Acompanhamento_Bonus","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/70330528-2e78-45ed-bd79-d316926ebc26","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T13:53:08.38Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena\nData Cria\u00e7\u00e3o Dataset:06/11/2025 \nData Quarentena:16/07/2025\nUltima Atualizacao:06/11/2024 \nUltimo Acesso:02/06/2025\nAgendamento: Diariamente 05:00 AM | 06:00 AM | 07:00 AM | 08:00 AM | 09:00 AM | 10:00 AM | 11:00 AM \n                         12:00 PM | 01:00 PM | 02:00 PM | 03:00 PM | 04:00 PM |\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"2087cfde-2bc5-47ad-8e1d-438caa54b7bc","name":"An\u00e1lise de Progress\u00e3o de Lojas","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/2087cfde-2bc5-47ad-8e1d-438caa54b7bc","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T14:27:08.31Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o Dataset: 08/01/2025\nData Quarentena:16/07/2025\nUltima Atualiza\u00e7\u00e3o:\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"2685b906-b9fc-41b9-a3ec-86e55a379c58","name":"CPA Geral","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/2685b906-b9fc-41b9-a3ec-86e55a379c58","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T14:43:23.06Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o Dataset:03/01/2025 \nData Quarentena:16/07/2025\nUltima Atualiza\u00e7\u00e3o:\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"62b9df0d-38b6-4295-b6cc-dc8a37c69f7c","name":"CSU04 - Metas","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/62b9df0d-38b6-4295-b6cc-dc8a37c69f7c","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T14:56:57.12Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Criacao Dataset:31/01/2025 \nData Quarentena:16/07/2025\nUltima Atualizacao:05/02/2025\nUltimo Acesso:\nAgendamento:08:00 AM | 08:00 AM | 10:00 AM | 01:00 PM | 04:00 PM |\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"bad85405-fa89-49df-b708-6f221c48dca1","name":"Dashboard - Acompanhamento em Cascata","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/bad85405-fa89-49df-b708-6f221c48dca1","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T15:29:31.72Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Criacao Dataset: \nData Quarentena:16/07/2025\nUltima Atualizacao:\nUltimo Acesso:\nAgendamento:N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"cc7962db-902e-4ae5-b1a8-df982f2f160e","name":"Dashboard Black Friday v3","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/cc7962db-902e-4ae5-b1a8-df982f2f160e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T15:45:03.593Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o Dataset:30/11/2024 \nData Quarentena:16/07/2025\nUltima Atualizacao:17/12/2024\nUltimo Acesso:\nAgendamento: 00:00 AM | 01:00 AM | 02:00 AM | 03:00 AM |04:00 AM | 50:00 AM | 06:00 AM | 08:00 AM |\n                         08:00 AM | 09:00 AM | 10:00 AM | 11:00 AM |\n                         01:00 PM | 02:00 PM | 03:00 PM | 04:00 PM | 05:00 PM | 06:00 PM | 07:00 PM | 08:00 PM |\n                        09:00 PM | 09:30 PM |\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"4eb9ce9e-0669-4a23-b52b-aa276f2ef5ad","name":"Dashboard CS (GiftBack)_Validar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/4eb9ce9e-0669-4a23-b52b-aa276f2ef5ad","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T16:10:06.447Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o:20/01/2025 \nData Quarentena:16/07/2025\nUltima Atualiza\u00e7\u00e3o:23/05/2025\nUltimo Acesso:02/06/2025\nAgendamento: Diariamente as  | 08:30 AM |\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"f99ba04b-d73c-40e4-85af-144515a42ea1","name":"Dashboard RFM","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f99ba04b-d73c-40e4-85af-144515a42ea1","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T16:17:29.4Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o:09/04/2025 \nData Quarentena:16/07/2025\nUltima Atualiza\u00e7\u00e3o:09/04/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"af39de35-e71c-4318-b3a5-3c4c7eadbfbe","name":"Relat\u00f3rios Churn","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/af39de35-e71c-4318-b3a5-3c4c7eadbfbe","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-07-16T17:51:00.937Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena \nData Cria\u00e7\u00e3o:08/01/2025 \nData Quarentena:16/07/2025\nUltima Atualiza\u00e7\u00e3o:08/01/2025\nUltimo Acesso:02/06/2025\nAgendamento:N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c1f84642-e1ac-4a88-9b49-e8ec1746fae0","name":"Dashboard Cliente - Zak","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c1f84642-e1ac-4a88-9b49-e8ec1746fae0","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T16:36:38.277Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Criacao Dataset: 26/03/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:24/09/2025  \nUltimo Acesso:29/07/2025\nAgendamento: Seg a Sex - 12AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"e6c0d0d9-8963-4957-b609-a6ee7c57ebda","name":"projeto_cgdt","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/e6c0d0d9-8963-4957-b609-a6ee7c57ebda","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T17:04:18.063Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Processos_ITSM/PRO\nData Criacao Dataset:18/03/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:24/09/2025  \nUltimo Acesso:31/07/2025\nAgendamento: Seg a Sex - 08:30AM at\u00e9 06:30PM (h-h min 30)\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0f74e970-35b0-4077-b62f-cd3fd095007c","name":"Dashboard Cliente - Sobrancelhas Design","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0f74e970-35b0-4077-b62f-cd3fd095007c","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T18:38:41.753Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Criacao Dataset:03/04/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:29/07/2025  \nUltimo Acesso:29/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"cd81ebaa-4512-42b5-b35b-3270c706e5f4","name":"Dashboard Cliente - AF & AW","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/cd81ebaa-4512-42b5-b35b-3270c706e5f4","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T18:57:58.627Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Criacao Dataset:04/04/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:08/08/2025\nUltimo Acesso:08/08/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"14b4d77a-584d-4894-b39c-e6a70ce6f513","name":"Dashboard Cliente - Corello","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/14b4d77a-584d-4894-b39c-e6a70ce6f513","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T19:12:26.263Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Dash de Marcas\nData Criacao Dataset:24/03/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:04/04/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"3946d1a9-573d-4078-b936-821708ac64df","name":"Dashboard Cliente - Chilli Beans","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/3946d1a9-573d-4078-b936-821708ac64df","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-24T19:25:14.42Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Criacao Dataset:28/03/2025\nData Quarentena:24/09/2025\nUltima Atualizacao:28/03/2025\nUltimo Acesso:06/08/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"4f33c1fc-56f0-4af8-9419-2dea45bf0e11","name":"OPE02 - B\u00f4nus N\u00e3o Identificados","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/4f33c1fc-56f0-4af8-9419-2dea45bf0e11","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T17:05:40.537Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/TI\nData Criacao Dataset:27/01/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:23/06/2025\nUltimo Acesso:02/06/2025\nAgendamento: Inativo Seg - Sex 08AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"7f2c9e3f-bd97-4737-ad5e-b3a6cf0de528","name":"Painel_SegInfo","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/7f2c9e3f-bd97-4737-ad5e-b3a6cf0de528","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T17:16:06.853Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Processos_ITSM/PRO\nData Criacao Dataset:14/02/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:22/08/2025\nUltimo Acesso:23/06/2025\t\nAgendamento: Seg - Sex AM - 7,10:30 PM - 12:30,1,2,3:30,4:30,5:30,8\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c8413dc2-ade0-43b0-b494-c61376fe2600","name":"Santa Lolla","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c8413dc2-ade0-43b0-b494-c61376fe2600","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T17:24:36.407Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Santa Lolla\nData Criacao Dataset:14/02/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:17/08/2025\nUltimo Acesso:18/06/2025\t\nAgendamento: Diariamente AM - 7:30,11:30 PM - 2:30,4,6,8\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"742b2761-5d0f-4d4e-abcd-c140929c19a7","name":"Dash Jur\u00eddico","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/742b2761-5d0f-4d4e-abcd-c140929c19a7","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T18:10:54.957Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Jur\u00eddico\nData Criacao Dataset:16/04/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:16/04/2025\nUltimo Acesso:02/06/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a16a412f-91f2-48aa-8330-0bcb895a64c9","name":"caminho_do_candidato","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a16a412f-91f2-48aa-8330-0bcb895a64c9","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T18:16:58.117Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/RH\nData Criacao Dataset:02/05/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:15/05/2025\nUltimo Acesso:10/07/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"02df6273-d189-48de-bb37-725e90b43225","name":"Jur\u00eddico - Pipefy","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/02df6273-d189-48de-bb37-725e90b43225","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T18:28:10.033Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Juridico\nData Criacao Dataset:26/08/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:08/07/2025\nUltimo Acesso:02/06/2025\t\nAgendamento: Inativo Diariamente 12:30AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"56723b01-d4f3-4b46-8d0e-0079e266ecb5","name":"Dashboard - 1\u00ba andar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/56723b01-d4f3-4b46-8d0e-0079e266ecb5","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T18:38:26.183Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/HOMOLOGA\u00c7\u00c2O\nData Criacao Dataset:28/10/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:08/04/2025\nUltimo Acesso:07/08/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"72d987a6-70c8-4f65-af63-5ad60d9d3d40","name":"Dashboard Zanthus","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/72d987a6-70c8-4f65-af63-5ad60d9d3d40","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T19:10:21.687Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/TI\nData Criacao Dataset:29/11/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:24/06/2025\nUltimo Acesso:02/06/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"87fdba86-5726-48cb-89b8-53f597dfced5","name":"Canal do Benja - Paraz\u00e3o 2025","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/87fdba86-5726-48cb-89b8-53f597dfced5","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T19:22:56.09Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Canal do Benja\nData Criacao Dataset:24/01/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:23/06/2025\nUltimo Acesso:07/08/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a1a8b778-c23b-4dcd-af63-db094a6eddf6","name":"Vendedor IA - Giuliana FLores","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a1a8b778-c23b-4dcd-af63-db094a6eddf6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T19:34:59.107Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena\nData Criacao Dataset:18/02/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:18/03/2025\nUltimo Acesso:25/07/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"94990c79-fde9-47c2-9a21-f2e30ebeda46","name":"Opera\u00e7\u00e3o Ads (Sem Parar)_old","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/94990c79-fde9-47c2-9a21-f2e30ebeda46","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T19:47:30.64Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/sem parar\nData Criacao Dataset:03/09/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:10/09/2025\nUltimo Acesso:31/07/2025\t\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"5edadc44-aa3f-4f16-9272-c9cfb06b380e","name":"hope","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/5edadc44-aa3f-4f16-9272-c9cfb06b380e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T20:02:45.713Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/hope\nData Criacao Dataset:08/11/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:18/06/2025\nUltimo Acesso:01/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"f9545035-a440-444a-9ed6-aaf0471851aa","name":"Loccitane Revenda","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f9545035-a440-444a-9ed6-aaf0471851aa","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-25T23:14:40.653Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Loccitane\nData Criacao Dataset:30/01/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:18/07/2025\nUltimo Acesso:22/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a613c1bc-b60f-4979-9bb6-e7dbbb492723","name":"Dashboard Cliente - Loungerie - Validar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a613c1bc-b60f-4979-9bb6-e7dbbb492723","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T00:23:33.8Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Relatorios Otimizados\nData Criacao Dataset:15/07/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:25/07/2025\nUltimo Acesso:01/08/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"13bae2ad-3b53-4f60-a4d5-4e3d30500e96","name":"Opera\u00e7\u00e3o Ads (Hero Seguros)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/13bae2ad-3b53-4f60-a4d5-4e3d30500e96","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T00:31:14.893Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/hero seguros\nData Criacao Dataset:10/09/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:16/06/2025\nUltimo Acesso:31/07/2025 \nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"231d251e-cf32-4294-8bf9-89b7cbca94ed","name":"Opera\u00e7\u00e3o Azul","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/231d251e-cf32-4294-8bf9-89b7cbca94ed","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T04:24:19.81Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/hero seguros\nData Criacao Dataset:24/06/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:24/06/2025\nUltimo Acesso:31/07/2025 \nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"8a53efb9-ea69-4ca3-b219-ccd5ee721158","name":"GB08 - Viddy","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/8a53efb9-ea69-4ca3-b219-ccd5ee721158","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T04:38:20.327Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Viddy\nData Criacao Dataset:25/09/2024\nData Quarentena:25/09/2025\nUltima Atualizacao:08/07/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b86ba0f9-6e83-42da-807c-f4e127ee85e6","name":"Resultados MGM - Grupo Nomura","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b86ba0f9-6e83-42da-807c-f4e127ee85e6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T04:55:14.653Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes/Grupo Nomura\nData Criacao Dataset:25/11/2024 \nData Quarentena:25/09/2025\nUltima Atualizacao:02/12/2024\nUltimo Acesso:06/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"9b516eae-ddef-43c3-80e3-570ea7dbb2eb","name":"Dashboard POC Nike","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/9b516eae-ddef-43c3-80e3-570ea7dbb2eb","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T05:05:21.793Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Sem Pasta\nData Criacao Dataset:03/02/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:25/08/2025\nUltimo Acesso:24/06/2025\nAgendamento: Seg - Sex 10:30AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"e6045d5b-aa20-43be-a765-9a798a5321a2","name":"Resultados MGM - Adcos","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/e6045d5b-aa20-43be-a765-9a798a5321a2","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T05:24:11.433Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes/ADCOS\nData Criacao Dataset:20/01/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:08/07/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"edea03df-7c9d-482a-a076-ba79b76f6e11","name":"Acompanhamento Semanal - KPI's_Validar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/edea03df-7c9d-482a-a076-ba79b76f6e11","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-26T05:35:15.613Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Interno\nData Criacao Dataset:30/01/2025\nData Quarentena:25/09/2025\nUltima Atualizacao:08/07/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"7e09b00d-f6ab-4f67-9965-cfe20baf5f5e","name":"Dashboard Cliente - Natura_Validar","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/7e09b00d-f6ab-4f67-9965-cfe20baf5f5e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T16:18:11.65Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Relatorios Otimizados\nData Criacao Dataset:24/07/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:25/07/2025\nUltimo Acesso:25/07/2025 \nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"daf6d004-addb-41a8-b857-74b89484fcb7","name":"Integra\u00e7\u00e3o Geral","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/daf6d004-addb-41a8-b857-74b89484fcb7","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T16:30:13.633Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/TI\nData Criacao Dataset:10/12/2024\nData Quarentena:29/09/2025\nUltima Atualizacao:25/07/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"05c821d5-3518-468f-8272-49c1f0b745c8","name":"Opera\u00e7\u00e3o Ads (Sem Parar)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/05c821d5-3518-468f-8272-49c1f0b745c8","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T16:55:39.693Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/sem parar\nData Criacao Dataset:03/09/2024\nData Quarentena:29/09/2025\nUltima Atualizacao:10/09/2025\nUltimo Acesso:31/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c50fd8b7-bcf3-4e75-a532-9df9437ed287","name":"B\u00f4nus Autom\u00e1tico - Santa Lolla","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c50fd8b7-bcf3-4e75-a532-9df9437ed287","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T17:09:00.467Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Criacao Dataset:18/02/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:27/08/2025\nUltimo Acesso:27/06/2025\nAgendamento: Seg - Sex \u00e0s 09AM\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"26667d1f-da6d-4dd0-b394-db3ce88c1188","name":"Dashboard Totvs","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/26667d1f-da6d-4dd0-b394-db3ce88c1188","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T17:22:14.5Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Interno\nData Criacao Dataset:26/03/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:08/07/2025\nUltimo Acesso:11/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"791a34d5-442f-46d1-8c22-40ac5f9e8aaf","name":"farma_estrela","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/791a34d5-442f-46d1-8c22-40ac5f9e8aaf","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T17:26:41.99Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Sem Pasta\nData Criacao Dataset:10/01/2025\t\nData Quarentena:29/09/2025\nUltima Atualizacao:13/01/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0d25a521-fcba-4a92-abf8-45706a797d40","name":"Dataset Zipper APP Oficial","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0d25a521-fcba-4a92-abf8-45706a797d40","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-09-29T17:56:20.073Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: zipper\nData Criacao Dataset:10/01/2025\t\nData Quarentena:29/09/2025\nUltima Atualizacao:13/01/2025\nUltimo Acesso:23/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"635fa5cc-e387-45e6-b08d-510149db4c79","name":"Vis\u00f5es Personalizadas Vivara","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/635fa5cc-e387-45e6-b08d-510149db4c79","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T19:56:05.447Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Interno\nData Criacao Dataset:23/07/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:23/07/2025\nUltimo Acesso:23/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"e878d1be-b596-425b-8d5c-b13b4c8bff0a","name":"Dashboard Cliente - Reggla","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/e878d1be-b596-425b-8d5c-b13b4c8bff0a","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T20:16:06.057Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Dash de Marcas\nData Criacao Dataset:24/03/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:04/04/2025\nUltimo Acesso:02/06/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"883b79e3-497b-4973-afc2-025d3e82c4e1","name":"CRM - CTPB001 - Monitoramento de Relat\u00f3rios_HML","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/883b79e3-497b-4973-afc2-025d3e82c4e1","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-09-29T20:21:17.853Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Control_Tower/Hml\nData Criacao Dataset:04/02/2025\nData Quarentena:29/09/2025\nUltima Atualizacao:16/07/2025\nUltimo Acesso:16/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"7d8eaa06-ef10-4735-b856-2e74f6750760","name":"Dataset Zipper APP Oficial (2)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/7d8eaa06-ef10-4735-b856-2e74f6750760","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2025-09-29T20:29:22.45Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: Embedded\nPasta:\nData Criacao Dataset:03/11/2022\nData Quarentena:29/09/2025\nUltima Atualizacao:04/11/2024\nUltimo Acesso:10/07/2025\nAgendamento: N\u00e3o possui agendamento\nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"3de3e1d2-d192-44ac-b244-45820c2132eb","name":"Opera\u00e7\u00e3o","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/3de3e1d2-d192-44ac-b244-45820c2132eb","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2025-11-13T12:04:36.37Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/azul\nData Criacao Dataset: 02/09/2024\nData Quarentena: 13/11/2025\nUltima Atualizacao:  13/11/2024\nUltimo Acesso: 12/11/2025","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"327a6b9c-af8c-48a1-97fd-3365ccfb1bc9","name":"Acompanhamento SMS","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/327a6b9c-af8c-48a1-97fd-3365ccfb1bc9","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T13:45:36.54Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/financeiro\nData Cria\u00e7\u00e3o Dataset: 24/02/2025 \nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"58888f9f-0ee9-483e-891c-bfedc0b46ff0","name":"Acompanhamento_AKAMAI","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/58888f9f-0ee9-483e-891c-bfedc0b46ff0","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T15:01:35.697Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Processos_ITSM\nData Cria\u00e7\u00e3o Dataset: 11/07/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 16/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"86791aa1-a15a-4f31-9fb2-10dc3d0ffe6e","name":"Acompanhamento_Bonus_Diario_mes","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/86791aa1-a15a-4f31-9fb2-10dc3d0ffe6e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:35:20.94Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback\nData Cria\u00e7\u00e3o Dataset: 02/05/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 02/05/2025\nUltimo Acesso: 13/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a0f9b41d-f48b-4383-b1ed-ec937a87a695","name":"Ads - iFood","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a0f9b41d-f48b-4383-b1ed-ec937a87a695","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:36:29.313Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Vale Bonus - Parceiros/iFood - Ads\nData Cria\u00e7\u00e3o Dataset: 03/07/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"577a6350-b150-4733-8f04-f4481d80ac70","name":"Ads - Sem Parar Payload","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/577a6350-b150-4733-8f04-f4481d80ac70","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:37:39.88Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: _PROD/1_ADS/1_Clientes/Sem Parar\nData Cria\u00e7\u00e3o Dataset: 16/11/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 22/01/2026\nUltimo Acesso: 03/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b469a0bb-a89c-4e10-83dc-4fb8e6e3e190","name":"Ads - Zoox","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b469a0bb-a89c-4e10-83dc-4fb8e6e3e190","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:39:44.497Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:_PROD/1_ADS/1_Clientes/Zoox\nData Cria\u00e7\u00e3o Dataset: 16/11/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 22/01/2026\nUltimo Acesso: 24/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"5a4ae85a-22b0-40f4-9551-cd5472fb32b6","name":"Ads Geral","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/5a4ae85a-22b0-40f4-9551-cd5472fb32b6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:51:31.837Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/ads/Parados\nData Cria\u00e7\u00e3o Dataset: 12/03/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 16/06/2025\nUltimo Acesso: 17/09/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"f8079078-9e9b-4ba7-a6bf-b1670ced017b","name":"B\u00f4nus Autom\u00e1tico - Geral","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f8079078-9e9b-4ba7-a6bf-b1670ced017b","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:53:28.653Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 19/02/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a5f536a0-dafe-404f-ba82-b56e1074966f","name":"com_dashboard_comercial","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a5f536a0-dafe-404f-ba82-b56e1074966f","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:55:54.02Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: _PROD/6_OUTROS\nData Cria\u00e7\u00e3o Dataset: 15/11/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 15/01/2026\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"7ba9d58e-cb39-4bb5-b12b-f2c3ae7aac03","name":"Corredores - Vale B\u00f4nus","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/7ba9d58e-cb39-4bb5-b12b-f2c3ae7aac03","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:57:01.423Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Vale Bonus - Interno/Estudos DS\nData Cria\u00e7\u00e3o Dataset: 10/03/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"61070b20-0d11-460e-9eb9-861a3ddc8dcb","name":"crm360_kop","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/61070b20-0d11-460e-9eb9-861a3ddc8dcb","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T17:59:21.71Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:_PROD/6_OUTROS\nData Cria\u00e7\u00e3o Dataset: 15/11/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o:22/01/2026\nUltimo Acesso: 28/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"9c8024e6-4a2c-4c56-bb77-f675f45b898c","name":"CRMAds - Acompanhamento Operacional","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/9c8024e6-4a2c-4c56-bb77-f675f45b898c","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:00:27.787Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: SEM DONO\nData Cria\u00e7\u00e3o Dataset: 06/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 06/10/2025\nUltimo Acesso: 06/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"6b1538d7-c386-4e4e-b206-85330988be33","name":"CRMAds - Acompanhamento Semanal ARM (Homol) (1)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/6b1538d7-c386-4e4e-b206-85330988be33","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:01:46.237Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: SEM DONO\nData Cria\u00e7\u00e3o Dataset: 25/07/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 06/08/2025\nUltimo Acesso: 23/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a873a3c4-7c94-4c40-82c2-15fed8b322f4","name":"CRMAds - Acompanhamento Semanal ARM","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a873a3c4-7c94-4c40-82c2-15fed8b322f4","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:03:56.54Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:SEM DONO\nData Cria\u00e7\u00e3o Dataset: 10/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 06/11/2025\nUltimo Acesso: 02/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"60b22116-2273-4fad-9c07-e15126598d46","name":"CRMAds - Acompanhamento Semanal ARM - HML","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/60b22116-2273-4fad-9c07-e15126598d46","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:05:36.493Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 06/08/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 03/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"436aa576-78a3-4e89-9239-95f66f9da7c2","name":"CRMAds - ArchMidia","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/436aa576-78a3-4e89-9239-95f66f9da7c2","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:09:29.277Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:clientes/ArchMidia\nData Cria\u00e7\u00e3o Dataset: 14/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"e615a118-03ac-4a80-a02f-04a8241d541a","name":"CRMAds - AZUL ARM","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/e615a118-03ac-4a80-a02f-04a8241d541a","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:11:57.3Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 22/05/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"2d4162f3-89b5-4c30-838c-a5872ac426ee","name":"CRMAds - Click Embarque ARM","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/2d4162f3-89b5-4c30-838c-a5872ac426ee","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:13:19.153Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:/crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 18/08/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 02/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"228c1d56-0ba9-47c1-bbfc-bd71c6779a2b","name":"CRMAds - Erros","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/228c1d56-0ba9-47c1-bbfc-bd71c6779a2b","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:14:15.253Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:SEM DONO\nData Cria\u00e7\u00e3o Dataset: 30/09/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 30/09/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"19845697-db9d-4564-b047-b35db5e931f4","name":"CRMAds - Marcas","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/19845697-db9d-4564-b047-b35db5e931f4","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:19:42.193Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 13/05/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 05/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a00dba96-38c8-479c-b73d-502847a1a865","name":"CRMAds - Monitoramento ","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a00dba96-38c8-479c-b73d-502847a1a865","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:20:43Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 07/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 02/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"470062d7-9227-4f56-856d-a278d5c242f7","name":"CRMAds - SEM PARAR ARM VERSAO 02","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/470062d7-9227-4f56-856d-a278d5c242f7","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:21:51.407Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 22/05/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 02/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"1b913b38-aa91-47d3-b755-1fd9659f3e5a","name":"CRMAds - Sem Parar Payload","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/1b913b38-aa91-47d3-b755-1fd9659f3e5a","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:23:20.66Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:clientes/sem parar\nData Cria\u00e7\u00e3o Dataset: 21/08/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o:11/11/2025\nUltimo Acesso: 21/08/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"274f4644-b4f8-41ff-aca3-49d5b1edf8a2","name":"CRMAds -Geral","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/274f4644-b4f8-41ff-aca3-49d5b1edf8a2","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:24:36.907Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/ads\nData Cria\u00e7\u00e3o Dataset: 25/08/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o:17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"2f675313-eb25-4e0b-b8af-f6fa0895af40","name":"Dashboard Cliente - Aramis","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/2f675313-eb25-4e0b-b8af-f6fa0895af40","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:26:46.623Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 02/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"5e5b11c0-1f89-4f99-ab77-a3dd3fe217cf","name":"Dashboard Cliente - Dr Hato","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/5e5b11c0-1f89-4f99-ab77-a3dd3fe217cf","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:27:57.977Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 29/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"2ee6de87-2ae0-47d0-a766-52e82febf937","name":"Dashboard Cliente - Loj\u00e3o do Br\u00e1s","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/2ee6de87-2ae0-47d0-a766-52e82febf937","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:29:25.287Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 29/10/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 24/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"3638e0a9-ff4f-4fb4-a2df-95cf752c3568","name":"Dashboard Cliente - Luxxotica","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/3638e0a9-ff4f-4fb4-a2df-95cf752c3568","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:31:43.463Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:clientes/Dash de Marcas\nData Cria\u00e7\u00e3o Dataset: 21/03/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c4c5c2cb-ab40-4421-9526-ee578138b096","name":"Dashboard Cliente - Natura","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c4c5c2cb-ab40-4421-9526-ee578138b096","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-29T18:33:54.973Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 03/07/2025\nData Quarentena: 29/01/2026\nUltima Atualiza\u00e7\u00e3o:17/11/2025\nUltimo Acesso: 19/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"131f0dc7-9dfd-4c7f-afb8-ee69e30ebed3","name":"Dashboard Cliente - Pernambucanas","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/131f0dc7-9dfd-4c7f-afb8-ee69e30ebed3","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:36:00.69Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 06/10/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"64a47ade-69a0-40e2-94c1-ebf9af12d169","name":"Dashboard Cliente - Samsung","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/64a47ade-69a0-40e2-94c1-ebf9af12d169","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:37:19.073Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:crmbonus/giftback\nData Cria\u00e7\u00e3o Dataset: 30/10/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 30/10/2025\nUltimo Acesso: 24/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a88c73aa-b339-4bba-a16b-a5485fa3f4c6","name":"Dashboard Cliente - Shoulder","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a88c73aa-b339-4bba-a16b-a5485fa3f4c6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:39:09.04Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Dash de Marcas\nData Cria\u00e7\u00e3o Dataset: 21/03/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 27/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"276544ce-f9e2-4092-a588-0d89e8423211","name":"Dashboard Cliente - Vivara (A Validar)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/276544ce-f9e2-4092-a588-0d89e8423211","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:43:22.757Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Quarentena\nData Cria\u00e7\u00e3o Dataset: 23/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 18/08/2025\nUltimo Acesso: 28/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"83eac631-ef60-43d2-b00c-8f7ac9a67dac","name":"Dashboard Cliente - Vivara (Novo)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/83eac631-ef60-43d2-b00c-8f7ac9a67dac","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:45:47.357Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 24/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 01/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c0f51da1-3472-4149-9f94-fd587a9c8764","name":"Dashboard Comercial","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c0f51da1-3472-4149-9f94-fd587a9c8764","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:52:06.153Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/Comercial\nData Cria\u00e7\u00e3o Dataset: 11/02/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 10/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"000d5308-55cf-46a3-9e2a-e638f5c39e39","name":"Dashboard CRMChat - Vivara","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/000d5308-55cf-46a3-9e2a-e638f5c39e39","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:55:42.68Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 28/02/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 07/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"de120891-dd04-464e-85d4-a633ef2052e4","name":"Dashboard CS (GiftBack)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/de120891-dd04-464e-85d4-a633ef2052e4","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T13:59:03.837Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 24/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"9dbb1361-72b1-4bc2-89d9-7abfa6d658f6","name":"Dashboard de Marcas (Com RLS)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/9dbb1361-72b1-4bc2-89d9-7abfa6d658f6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:01:07.623Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Store/crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 02/05/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 03/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"58534de2-44f4-49a1-9654-b2479fda2bb1","name":"Dashboard Metas - CRM360","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/58534de2-44f4-49a1-9654-b2479fda2bb1","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:02:07.54Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/CRM 360\nData Cria\u00e7\u00e3o Dataset: 30/10/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 09/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"32fbda2a-cc46-4ca4-a562-2773590a7ad9","name":"Dashboard Motorola","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/32fbda2a-cc46-4ca4-a562-2773590a7ad9","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:03:13.68Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 07/03/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 18/03/2025\nUltimo Acesso: 28/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"fe7f5258-67d0-4471-8eb2-c9dfbc390891","name":"Dashboard Trinks","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/fe7f5258-67d0-4471-8eb2-c9dfbc390891","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:09:16.55Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/TI\nData Cria\u00e7\u00e3o Dataset: 11/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"11dbb4dd-822e-4dbb-ac9b-51370d212507","name":"Diagn\u00f3sticos","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/11dbb4dd-822e-4dbb-ac9b-51370d212507","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:10:29.977Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 09/05/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 21/05/2025\nUltimo Acesso: 13/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"6ab72493-5bac-4515-b412-e83e8e4cf9cb","name":"Gatilho_Inteligente","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/6ab72493-5bac-4515-b412-e83e8e4cf9cb","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:12:13.29Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 22/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 26/08/2025\nUltimo Acesso: 13/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b52f3161-a2c5-4e11-a5f8-2df3d0b6cd65","name":"Heatmap de Clicks","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b52f3161-a2c5-4e11-a5f8-2df3d0b6cd65","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:13:10.343Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno/Estudos DS\nData Cria\u00e7\u00e3o Dataset: 14/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 14/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"c741421b-7588-4602-b3fb-4047447a50a2","name":"Invoices Meta","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/c741421b-7588-4602-b3fb-4047447a50a2","addRowsAPIEnabled":false,"configuredBy":"3554bd60-78fb-46b5-bfde-3c9cce59502f","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":true,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:13:57.243Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Mensageria\nData Cria\u00e7\u00e3o Dataset: 03/12/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 09/12/2025\nUltimo Acesso: 10/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"28418703-c236-4c97-809e-9b96f64fc9e8","name":"Marcas Integradas - VB","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/28418703-c236-4c97-809e-9b96f64fc9e8","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:15:59.383Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Vale Bonus - Interno\nData Cria\u00e7\u00e3o Dataset: 25/02/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 04/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"d8555825-808c-475d-888f-19b5e65140c4","name":"Media Saldo","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/d8555825-808c-475d-888f-19b5e65140c4","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:17:08.77Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno\nData Cria\u00e7\u00e3o Dataset: 18/09/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"0cbe20c8-2637-4c00-a9e1-8f866fb05494","name":"Novos Usu\u00e1rios","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/0cbe20c8-2637-4c00-a9e1-8f866fb05494","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:21:28.203Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno/Estudos DS\nData Cria\u00e7\u00e3o Dataset: 01/07/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"82cec384-b231-4921-8f2f-5b1bcc6a3aa5","name":"NPS","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/82cec384-b231-4921-8f2f-5b1bcc6a3aa5","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:24:13.473Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/giftback/CS/Interno\nData Cria\u00e7\u00e3o Dataset: 21/05/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 03/11/2025\nUltimo Acesso: 08/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"5c741042-5595-4869-aac8-58e7e45985e7","name":"Ofertas VB","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/5c741042-5595-4869-aac8-58e7e45985e7","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:26:14.437Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  clientes/Vale Bonus - Ofertas\nData Cria\u00e7\u00e3o Dataset: 31/03/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 25/11/2025\nUltimo Acesso: 25/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"1a27be96-335c-43d5-b2d1-1a7c11f58274","name":"Ofertas VB_HML","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/1a27be96-335c-43d5-b2d1-1a7c11f58274","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:27:14.697Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Vale Bonus - Ofertas\nData Cria\u00e7\u00e3o Dataset: 30/09/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 30/09/2025\nUltimo Acesso: 01/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"099eb345-4ad5-4535-adbe-ba8b72d45591","name":"Ofertas VB_HML_v2","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/099eb345-4ad5-4535-adbe-ba8b72d45591","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:28:58.43Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/Vale Bonus - Ofertas\nData Cria\u00e7\u00e3o Dataset: 30/09/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 05/11/2025\nUltimo Acesso: 30/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"aebf3d4e-abbe-4f55-8d31-cef39d04c456","name":"Ofertas VB_V2_HML","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/aebf3d4e-abbe-4f55-8d31-cef39d04c456","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":true,"isEffectiveIdentityRolesRequired":true,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T14:57:46.533Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  clientes/Vale Bonus - Ofertas\nData Cria\u00e7\u00e3o Dataset: 30/10/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 03/11/2025\nUltimo Acesso: 06/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"59a03f7c-80ff-497a-ab1d-d4e6b3d8bc0f","name":"Opera\u00e7\u00e3o Ads (Clickbus)_homologa\u00e7\u00e3o","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/59a03f7c-80ff-497a-ab1d-d4e6b3d8bc0f","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:34:37.483Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Homologa\u00e7\u00e3o\nData Cria\u00e7\u00e3o Dataset: 28/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 10/09/2025\nUltimo Acesso: 09/10/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"d93b98dc-21b9-4b99-a3eb-5be8fdc3c15e","name":"Opera\u00e7\u00e3o Ads (Sem Parar) ","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/d93b98dc-21b9-4b99-a3eb-5be8fdc3c15e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:37:06.81Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: clientes/sem parar\nData Cria\u00e7\u00e3o Dataset: 20/06/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"4a1d2b81-c828-4fec-8be3-08fe213085f3","name":"Opera\u00e7\u00e3o Ads (Zoox)","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/4a1d2b81-c828-4fec-8be3-08fe213085f3","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:39:06.623Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: Homologa\u00e7\u00e3o\nData Cria\u00e7\u00e3o Dataset: 01/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 15/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"a45785ec-9a51-40ca-98c5-536a2dd27582","name":"Parceiros - Interno","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/a45785ec-9a51-40ca-98c5-536a2dd27582","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:40:09.31Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno/Interno (Revisados)\nData Cria\u00e7\u00e3o Dataset: 25/09/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 14/11/2025\nUltimo Acesso: 17/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"b6af6907-5ca5-47cc-97a9-f05559088fe8","name":"Performance Semanal Alpargatas","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/b6af6907-5ca5-47cc-97a9-f05559088fe8","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:42:20.443Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/giftback/CS/Clientes\nData Cria\u00e7\u00e3o Dataset: 06/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o:17/11/2025 \nUltimo Acesso: 24/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"f805af05-166a-43ba-a0a7-e04f92436f6e","name":"Relat\u00f3rio Executivo","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/f805af05-166a-43ba-a0a7-e04f92436f6e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:43:26.217Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  Ifood Gerencial\nData Cria\u00e7\u00e3o Dataset: 23/10/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 16/12/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"aad6bd7b-aa3d-434d-904e-a5dbe782d64d","name":"SBT_ADS","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/aad6bd7b-aa3d-434d-904e-a5dbe782d64d","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:44:17.573Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  clientes/SBT\nData Cria\u00e7\u00e3o Dataset: 28/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 19/09/2025\nUltimo Acesso: 15/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"3d79c1bb-63a3-42c4-8879-ad367e57cbe6","name":"SBT_Engajamento","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/3d79c1bb-63a3-42c4-8879-ad367e57cbe6","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:45:17.433Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  clientes/SBT\nData Cria\u00e7\u00e3o Dataset: 29/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 11/11/2025\nUltimo Acesso: 11/09/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"8be49f05-262d-4f54-963e-cfe1c4179330","name":"Vale Bonus Hoje","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/8be49f05-262d-4f54-963e-cfe1c4179330","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:46:08.027Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta: crmbonus/Vale Bonus - Interno/Interno (Revisados)\nData Cria\u00e7\u00e3o Dataset: 28/08/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 14/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"43b975aa-9fd7-489b-a6dd-55785de99d2e","name":"VB - Expira\u00e7\u00e3o de Moeda","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/43b975aa-9fd7-489b-a6dd-55785de99d2e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:47:01.667Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno\nData Cria\u00e7\u00e3o Dataset: 20/05/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 17/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    },{
+      "id":"70b492a4-ea4e-4864-9f8b-90a6d453025e","name":"Vivo - Acompanhamento de Meta","webUrl":"https://app.powerbi.com/groups/286f901d-f1f0-4173-b0dc-c8d43a4f5b0d/datasets/70b492a4-ea4e-4864-9f8b-90a6d453025e","addRowsAPIEnabled":false,"configuredBy":"melhoria.dataside@crmbonus.com","isRefreshable":true,"isEffectiveIdentityRequired":false,"isEffectiveIdentityRolesRequired":false,"isOnPremGatewayRequired":false,"targetStorageMode":"Abf","createdDate":"2026-01-30T16:47:46.177Z","createReportEmbedURL":"https://app.powerbi.com/reportEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","qnaEmbedURL":"https://app.powerbi.com/qnaEmbed?config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLUJSQVpJTC1TT1VUSC1CLVBSSU1BUlktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7InVzYWdlTWV0cmljc1ZOZXh0Ijp0cnVlfX0%3d","description":"Workspace: BI Store\nPasta:  crmbonus/Vale Bonus - Interno\nData Cria\u00e7\u00e3o Dataset: 08/05/2025\nData Quarentena: 30/01/2026\nUltima Atualiza\u00e7\u00e3o: 17/11/2025\nUltimo Acesso: 14/11/2025\nAgendamento: N\u00e3o possui agendamento \nIncremental: N\u00e3o","upstreamDatasets":[
+        
+      ],"users":[
+        
+      ],"queryScaleOutSettings":{
+        "autoSyncReadOnlyReplicas":true,"maxReadOnlyReplicas":0
+      }
+    }
+  ]
+}
