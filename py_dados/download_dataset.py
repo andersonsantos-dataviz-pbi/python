@@ -5,10 +5,10 @@
 import pyfabricops as pf
 
 #Declarando variáveis
-Workspace_Name = 'BI Store'      #Altere o nome do Workspace
-Dataset_Name = 'FIN02 - Bônus Gerado'  #Altere o nome do Dataset
-Report_Name = 'FIN02 - Bônus Gerado'   #Altere o nome do Relatório
-Salvar_Caminho = 'D:/Export_PowerBI/' + Dataset_Name
+Workspace_Name = 'CML - Vendas - Cert'      #Altere o nome do Workspace
+Dataset_Name = 'Modelo Semântico Vendas Mensal - Composto'  #Altere o nome do Dataset
+Report_Name = '[CML] PAINEL DE VENDA E MARGEM MENSAL - EXTRAÇÃO'   #Altere o nome do Relatório
+Salvar_Caminho = 'D:\\Dataside\\RD Saúde\\Otimizações\\' + Dataset_Name
 
 #Autenticando através do web browse
 pf.set_auth_provider('oauth')

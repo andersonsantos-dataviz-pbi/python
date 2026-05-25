@@ -23,7 +23,7 @@ municipio_ocorrencia = 'Belo Horizonte'
 tributacao_nacional = '010701'
 descricao_servico = "Prestacao de servicos referente a Power BI"
 nbs = "115013000"
-vl_servico = "995000"
+vl_servico = "1070000"
 # Acessando o Google Chrome maximizado utilizando subprocess
 chrome_path = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
 
