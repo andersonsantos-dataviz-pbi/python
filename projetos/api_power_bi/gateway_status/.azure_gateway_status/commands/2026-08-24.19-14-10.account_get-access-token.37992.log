@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 37992 | 2026-08-24 19:14:10,610 | INFO | az_command_data_logger | command args: account get-access-token --resource {} --output {}
+CMD-LOG-LINE-BEGIN 37992 | 2026-08-24 19:14:10,800 | INFO | az_command_data_logger | exit code: 0

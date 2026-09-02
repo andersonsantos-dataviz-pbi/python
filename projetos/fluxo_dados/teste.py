@@ -2,51 +2,6 @@
 # Script: Inventário de Dataflows e Status de Acesso às Datasources
 # via Power BI REST API
 #
-# Objetivo:
-#   1. Ler workspaces pela API:
-#      GET https://api.powerbi.com/v1.0/myorg/groups
-#
-#   2. Armazenar a leitura dos workspaces em memória.
-#
-#   3. Para cada Workspace ID, ler os dataflows:
-#      GET https://api.powerbi.com/v1.0/myorg/groups/{groupId}/dataflows
-#
-#   4. Armazenar a leitura dos dataflows em memória.
-#
-#   5. Para cada linha Workspace ID + Dataflow ID, consultar:
-#      GET https://api.powerbi.com/v1.0/myorg/groups/{groupId}/dataflows/{dataflowId}/datasources
-#
-#   6. Criar a coluna Status Dataflow:
-#      - "Normal" quando a API de datasources retornar sucesso 2xx.
-#      - "Sem acesso" quando ocorrer:
-#           a) 401 Unauthorized
-#           b) 403 Forbidden
-#           c) JSON com:
-#              {
-#                "error": {
-#                  "code": "Unauthorized",
-#                  "message": "User is not authorized"
-#                }
-#              }
-#           d) 400 InvalidRequest: Unexpected dataflow error
-#           e) Qualquer erro pontual em um dataflow específico.
-#
-#   7. Não interromper a execução por erro em dataflow individual.
-#
-#   8. Gerar tabela final com:
-#      Workspace ID, Workspace Name, Dataflow ID, Dataflow Name, Status Dataflow
-#
-#   9. Listar o resultado no console.
-#
-#   10. Exportar o resultado para arquivo .xlsx.
-#
-# Requisitos:
-#   pip install pandas requests openpyxl
-# ============================================================
-# ============================================================
-# Script: Inventário de Dataflows e Status de Acesso às Datasources
-# via Power BI REST API
-#
 # Características principais:
 #   - Status calculado individualmente por Dataflow.
 #   - Renovação preventiva do token a cada 50 Workspaces.

@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 50820 | 2026-08-24 19:14:07,424 | INFO | az_command_data_logger | command args: account show --output {}
+CMD-LOG-LINE-BEGIN 50820 | 2026-08-24 19:14:07,428 | INFO | az_command_data_logger | exit code: 0

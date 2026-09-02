@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 28996 | 2026-08-24 19:13:00,142 | INFO | az_command_data_logger | command args: account clear
+CMD-LOG-LINE-BEGIN 28996 | 2026-08-24 19:13:01,174 | INFO | az_command_data_logger | exit code: 0

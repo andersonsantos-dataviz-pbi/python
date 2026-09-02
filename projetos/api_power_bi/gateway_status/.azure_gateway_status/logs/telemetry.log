@@ -1,0 +1,48 @@
+28124 : 2026-08-24 19:12:59,864 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191259659].
+28124 : 2026-08-24 19:12:59,876 : INFO : telemetry.records : 1 cache files to upload.
+28124 : 2026-08-24 19:12:59,879 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191259659\cache into 1 records.
+28124 : 2026-08-24 19:12:59,879 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191259659
+28124 : 2026-08-24 19:12:59,926 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+28124 : 2026-08-24 19:12:59,926 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+28124 : 2026-08-24 19:13:00,548 : INFO : telemetry.sender : Sending 4098 bytes
+28124 : 2026-08-24 19:13:00,549 : INFO : telemetry.sender : Finish uploading in 0.622512 seconds.
+9956 : 2026-08-24 19:13:01,376 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191301211].
+9956 : 2026-08-24 19:13:01,388 : INFO : telemetry.records : 1 cache files to upload.
+9956 : 2026-08-24 19:13:01,392 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191301211\cache into 1 records.
+9956 : 2026-08-24 19:13:01,392 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191301211
+9956 : 2026-08-24 19:13:01,439 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9956 : 2026-08-24 19:13:01,439 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9956 : 2026-08-24 19:13:02,035 : INFO : telemetry.sender : Sending 4017 bytes
+9956 : 2026-08-24 19:13:02,035 : INFO : telemetry.sender : Finish uploading in 0.596202 seconds.
+27556 : 2026-08-24 19:14:07,212 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407041].
+27556 : 2026-08-24 19:14:07,223 : INFO : telemetry.records : 1 cache files to upload.
+27556 : 2026-08-24 19:14:07,228 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407041\cache into 1 records.
+27556 : 2026-08-24 19:14:07,229 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407041
+27556 : 2026-08-24 19:14:07,293 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+27556 : 2026-08-24 19:14:07,293 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+11932 : 2026-08-24 19:14:07,682 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407513].
+11932 : 2026-08-24 19:14:07,696 : INFO : telemetry.records : 1 cache files to upload.
+11932 : 2026-08-24 19:14:07,702 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407513\cache into 1 records.
+11932 : 2026-08-24 19:14:07,702 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191407513
+11932 : 2026-08-24 19:14:07,768 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+11932 : 2026-08-24 19:14:07,769 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+27556 : 2026-08-24 19:14:07,947 : INFO : telemetry.sender : Sending 4782 bytes
+27556 : 2026-08-24 19:14:07,947 : INFO : telemetry.sender : Finish uploading in 0.653756 seconds.
+11932 : 2026-08-24 19:14:08,386 : INFO : telemetry.sender : Sending 4179 bytes
+11932 : 2026-08-24 19:14:08,386 : INFO : telemetry.sender : Finish uploading in 0.617344 seconds.
+3356 : 2026-08-24 19:14:09,144 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191408971].
+3356 : 2026-08-24 19:14:09,155 : INFO : telemetry.records : 1 cache files to upload.
+3356 : 2026-08-24 19:14:09,159 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191408971\cache into 1 records.
+3356 : 2026-08-24 19:14:09,160 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191408971
+3356 : 2026-08-24 19:14:09,205 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3356 : 2026-08-24 19:14:09,205 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3356 : 2026-08-24 19:14:09,854 : INFO : telemetry.sender : Sending 4737 bytes
+3356 : 2026-08-24 19:14:09,854 : INFO : telemetry.sender : Finish uploading in 0.648661 seconds.
+16952 : 2026-08-24 19:14:10,997 : INFO : telemetry.main : Attempt start. Configuration directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status]. Cache directory [D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191410837].
+16952 : 2026-08-24 19:14:11,008 : INFO : telemetry.records : 1 cache files to upload.
+16952 : 2026-08-24 19:14:11,008 : INFO : telemetry.records : Processed file D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191410837\cache into 1 records.
+16952 : 2026-08-24 19:14:11,009 : INFO : telemetry.records : Remove directory D:\GitHubFiles\python\projetos\api_power_bi\gateway_status\.azure_gateway_status\telemetry\20260824191410837
+16952 : 2026-08-24 19:14:11,052 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+16952 : 2026-08-24 19:14:11,052 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+16952 : 2026-08-24 19:14:11,688 : INFO : telemetry.sender : Sending 4212 bytes
+16952 : 2026-08-24 19:14:11,688 : INFO : telemetry.sender : Finish uploading in 0.635450 seconds.

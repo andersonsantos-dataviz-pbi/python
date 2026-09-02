@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 22148 | 2026-08-24 19:13:01,442 | INFO | az_command_data_logger | command args: login --allow-no-subscriptions --output {}
+CMD-LOG-LINE-BEGIN 22148 | 2026-08-24 19:14:07,003 | INFO | az_command_data_logger | exit code: 0

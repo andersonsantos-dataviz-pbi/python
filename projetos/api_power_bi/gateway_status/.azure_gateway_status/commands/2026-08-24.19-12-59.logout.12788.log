@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 12788 | 2026-08-24 19:12:59,246 | INFO | az_command_data_logger | command args: logout
+CMD-LOG-LINE-BEGIN 12788 | 2026-08-24 19:12:59,514 | ERROR | az_command_data_logger | There are no active accounts.
+CMD-LOG-LINE-BEGIN 12788 | 2026-08-24 19:12:59,514 | INFO | az_command_data_logger | exit code: 1
